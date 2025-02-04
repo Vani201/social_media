@@ -2,5 +2,5 @@ import axios from "axios";
 
 
 export default axios.create({
-    baseURL: "http://localhost:3500/"
+    baseURL: "https://react-social-media-project.netlify.app/"
 })
